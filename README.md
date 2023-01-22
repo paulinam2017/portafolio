@@ -1,5 +1,5 @@
 # portafolio
-link directo a el pryecto web
+link directo al proyecto web
 http://127.0.0.1:5500/index.html
 
 link de github
